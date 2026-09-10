@@ -22,3 +22,16 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.metadata/
+
+# Build / output
+bin/
+target/
+out/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Enunciados dos exercicios
+ELE2 - Aula* - Exe*.txt
