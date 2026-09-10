@@ -24,6 +24,11 @@ hs_err_pid*
 replay_pid*
 .metadata/
 
+# Eclipse project metadata
+.classpath
+.project
+.settings/
+
 # Build / output
 bin/
 target/
